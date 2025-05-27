@@ -1,0 +1,73 @@
+# Created by https://www.toptal.com/developers/gitignore/api/venv,dotenv
+# Edit at https://www.toptal.com/developers/gitignore?templates=venv,dotenv
+
+### dotenv ###
+.env
+
+### venv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+
+# End of https://www.toptal.com/developers/gitignore/api/venv,dotenv
+
+# Adições personalizadas
+# Arquivos de ambiente virtual
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+
+# Arquivos gerados pelo Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Arquivos de log
+*.log
+
+# Configurações do editor VSCode
+.vscode/
+
+# Arquivos do dotenv com variáveis sensíveis
+.env
+
+# Configurações do pip
+pip-selfcheck.json
+
+# Configurações do pyenv (se usar)
+.python-version
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos do pycharm
+.idea/
+
+# Configurações do pytest
+.cache/
+
+# Arquivos de banco SQLite (se usar)
+*.sqlite3
+*.db
+
+# Arquivos de build/compilação
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Caches de Jupyter notebooks
+.ipynb_checkpoints/
