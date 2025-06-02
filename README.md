@@ -55,7 +55,7 @@ API consumption and development of small applications with external data integra
 
 ## 🎯 Purpose
 
-This repository aims to consolidate knowledge in programming fundamentals, function development, and API integration, serving both as practice and as part of a professional portfolio for data and AI-related careers.
+This repository aims to consolidate knowledge in programming fundamentals, function development, and API integration, serving as practice for data and AI-related careers.
 
 ---
 
