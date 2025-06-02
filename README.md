@@ -1,4 +1,4 @@
-readme_content = """
+
 # 🚀 Module 2 – Programming Fundamentals | Entra21 – Artificial Intelligence
 
 This repository contains exercises and activities developed during **Module 2 – Programming Fundamentals** of the **Entra21 Artificial Intelligence Program**. The exercises are focused on practicing logic, functions, data manipulation, and API integration using Python.
@@ -77,12 +77,4 @@ Feel free to connect or discuss any of the projects:
 
 - This repository is part of my learning journey and professional development in the field of artificial intelligence and software engineering.  
 - Contributions, suggestions, and feedback are welcome.
-"""
-
-file_path = "/mnt/data/README.md"
-
-with open(file_path, "w", encoding="utf-8") as file:
-    file.write(readme_content)
-
-file_path
 
