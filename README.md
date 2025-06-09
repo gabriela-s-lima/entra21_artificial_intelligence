@@ -38,7 +38,6 @@ API consumption and development of small applications with external data integra
 - `simple_post_manager.py` – Basic CRUD for posts using a fake API.
 - `the_cat_API.py` – Consumes The Cat API to display random cat images.
 - `weather_comparison_app.py` – Compares weather data between different cities.
-- `.env` – Environment variables file (API keys, etc.).
 - `requirements.txt` – Python dependencies used in the project.
 - `.gitignore` – Files and folders excluded from version control.
 
